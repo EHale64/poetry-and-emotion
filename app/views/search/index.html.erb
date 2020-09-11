@@ -7,10 +7,14 @@
 
   <section class='author'>
     Author: <%= poem.author %>
+  </section>
+
+  <section class='tone'>
+    Tone: <%= poem.tone %>
   </section><br>
 
   <section class='lines'>
-    <%= poem.lines.join %>
+    <%= poem.lines %>
   </section><br>
 </section>
 <% end %>

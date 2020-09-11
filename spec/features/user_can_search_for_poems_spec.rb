@@ -25,13 +25,13 @@ end
 # As a user - done
 # When I visit "/" - done
 # And I fill in "Emily" in the textfield(Note: Use the existing search form) - done
-# And I click "Get Poems"
-# Then I should be on page "/search"
-# Then I should see a list of the first 10 poems
+# And I click "Get Poems" - done
+# Then I should be on page "/search" -done
+# Then I should see a list of the first 10 poems -done
 # Then I should see the tone or tones listed for each poem.
 # For each poem I should see
-# - Title
-# - Author
-# - The poem(as a single string)
+# - Title - done
+# - Author - done
+# - The poem(as a single string) - done
 # I should also see:
 # - The tone or tones for each poem
